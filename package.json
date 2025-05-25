@@ -1,0 +1,11 @@
+{
+  "name": "hello-tea",
+  "version": "1.0.0",
+  "description": "Simple hello world OSS for tea.xyz test phase",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nama Anda",
+  "license": "MIT"
+}
